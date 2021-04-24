@@ -1,8 +1,7 @@
 print("Hello L&T Technology Services")
 print("hello world")
-def mr:
-  
 
+def mr:
 num1 = 1.5
 num2 = 6.3
 
