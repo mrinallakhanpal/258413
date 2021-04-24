@@ -31,10 +31,6 @@ print('The square root of %0.3f is %0.3f'%(num ,num_sqrt))
 a = 5
 b = 6
 c = 7
-
-
-
-
 # calculate the semi-perimeter
 s = (a + b + c) / 2
 
