@@ -1,7 +1,7 @@
 print("Hello L&T Technology Services")
 print("hello world")
 def mr:
-  # This program adds two numbers
+  
 
 num1 = 1.5
 num2 = 6.3
@@ -33,6 +33,7 @@ print('The square root of %0.3f is %0.3f'%(num ,num_sqrt))
 a = 5
 b = 6
 c = 7
+
 
 
 
