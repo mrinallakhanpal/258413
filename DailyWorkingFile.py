@@ -40,10 +40,6 @@ print('The area of the triangle is %0.2f' %area)
 
 x = 5
 y = 10
-
-
-
-
 temp = x
 x = y
 y = temp
