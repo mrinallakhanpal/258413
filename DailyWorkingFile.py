@@ -31,8 +31,8 @@ num_sqrt = num ** 0.5
 print('The square root of %0.3f is %0.3f'%(num ,num_sqrt))
 
 
-
 a = 5
+
 b = 6
 c = 7
 # calculate the semi-perimeter
@@ -65,3 +65,14 @@ print("y =", y)
 # importing the random module
 import random
 print(random.randint(0,9))
+
+
+# Taking kilometers input from the user
+kilometers = float(input("Enter value in kilometers: "))
+
+# conversion factor
+conv_fac = 0.621371
+
+# calculate miles
+miles = kilometers * conv_fac
+print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,miles))
