@@ -5,7 +5,6 @@ print("hello world")
 print("Second Commit")
 
 
-
 def mr:
 num1 = 1.5
 num2 = 6.3
